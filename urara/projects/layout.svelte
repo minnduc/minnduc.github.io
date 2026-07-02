@@ -1,3 +1,5 @@
+import { projects as allProjects } from '$lib/config/projects'
+
 <script lang="ts">
   import { projects as allProjects } from '$lib/config/projects'
   import Head from '$lib/components/head.svelte'
