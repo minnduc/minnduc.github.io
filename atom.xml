@@ -6,7 +6,7 @@
   <icon>https://minnduc.github.io/favicon.png</icon>
   <link href="https://minnduc.github.io" />
   <link href="https://minnduc.github.io/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-07-02T11:20:40.430Z</updated>
+  <updated>2026-07-02T11:24:21.989Z</updated>
   <author>
     <name><![CDATA[Minh Duc]]></name>
   </author>
@@ -24,7 +24,7 @@
     <title type="html"><![CDATA[Resume]]></title>
     <link href="https://minnduc.github.io/resume" />
     <id>https://minnduc.github.io/resume</id>
-    <published>2026-07-02T11:20:18.066Z</published>
+    <published>2026-07-02T11:23:59.287Z</published>
     <updated>2026-07-02T00:00:00.000Z</updated>
     <content type="html">
       <![CDATA[<p data-svelte-h="svelte-12r7f95">You can see my CV <a href="https://drive.google.com/file/d/1t3KDAn6dXVzjnIzYiL4v0U0oWeQsA8dW/view?usp=sharing" rel="nofollow noopener noreferrer external" target="_blank">here</a>.</p>]]>
@@ -37,7 +37,7 @@
     <title type="html"><![CDATA[Hello World]]></title>
     <link href="https://minnduc.github.io/welcome" />
     <id>https://minnduc.github.io/welcome</id>
-    <published>2026-07-02T11:20:18.066Z</published>
+    <published>2026-07-02T11:23:59.287Z</published>
     <updated>2026-07-02T00:00:00.000Z</updated>
     <content type="html">
       <![CDATA[<h1 id="about-me" data-svelte-h="svelte-1nwhtfo"><a href="#about-me">About me!</a></h1> <p data-svelte-h="svelte-1f6pdhf">My name is Minh Duc.</p> <p data-svelte-h="svelte-anpe9i">You can pronounce it as “Min” and “Duc” - where “Duc” sounds like “Duck”. The name “Duc” carries profound meanings in Vietnamese culture, representing virtues like morality, talent, and leadership qualities, which I strive to embody in both my personal and professional life.</p> <p data-svelte-h="svelte-ms3j0y">I am currently a third-year Information Technology student at the University of Information Technology (UIT), VNU. As I progress through my academic journey, I’m building a strong foundation in computer science fundamentals while exploring cutting-edge technologies that shape our digital future. And, I aim to become an MLOps Engineer in the future.</p> <p data-svelte-h="svelte-z16r6z">Besides, I love learning Math, code, computer, games, League of Legends, manga, swimming, gym and orca.</p> <h2 id="about-this-blog" data-svelte-h="svelte-1592ket"><a href="#about-this-blog">About this blog</a></h2> <p data-svelte-h="svelte-1a1574o">This blog simply shares my life journey.</p>]]>
