@@ -70,7 +70,7 @@ export const header: HeaderConfig = {
     },
     {
       text: 'Projects',
-      link: '/projects'
+      link: '/'
     },
  
   ],
