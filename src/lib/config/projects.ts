@@ -16,8 +16,8 @@ export const projects: Project[] = [
         description: 
             "Waste management system with AI-powered waste classification.",
         tags: ['Project','AI', 'Website'],
-        img: 'https://minnduc.github.io/assets/EcoWaste.png',
-        link: 'https://minnduc.github.io/projects/ecowaste'
+        img: '/assets/EcoWaste.png',
+        link: '/projects/ecowaste'
 
     },
     {
@@ -26,8 +26,8 @@ export const projects: Project[] = [
         description: 
             'Deep learning-based Japanese character recognition in Manga.',
         tags: ['Project', 'Coursework', 'OCR', 'Deep Learning'],
-        img: 'https://minnduc.github.io/assets/MangaOCR.png',
-        link: 'https://minnduc.github.io/projects/mangaocr'
+        img: '/assets/MangaOCR.png',
+        link: '/projects/mangaocr'
     },
 ]
 
