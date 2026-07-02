@@ -6,7 +6,7 @@
   <icon>https://minnduc.github.io/favicon.png</icon>
   <link href="https://minnduc.github.io" />
   <link href="https://minnduc.github.io/atom.xml" rel="self" type="application/atom+xml" />
-  <updated>2026-07-02T11:24:21.989Z</updated>
+  <updated>2026-07-02T12:21:28.255Z</updated>
   <author>
     <name><![CDATA[Minh Duc]]></name>
   </author>
@@ -21,10 +21,20 @@
   <category term="AI" scheme="https://minnduc.github.io/?tags=AI" />
   <category term="Website" scheme="https://minnduc.github.io/?tags=Website" />
   <entry>
+    <title type="html"><![CDATA[Projects]]></title>
+    <link href="https://minnduc.github.io/projects" />
+    <id>https://minnduc.github.io/projects</id>
+    <published>2026-07-02T12:21:04.503Z</published>
+    <updated>2026-07-02T12:21:04.503Z</updated>
+    <content type="html">
+      <![CDATA[<a id="ecowaste" href="https://minnduc.github.io//projects/ecowaste" class="card mx-auto max-w-4xl bg-base-100 shadow-xl transition-shadow mb-7 h-card u-url hover:shadow-2xl"><div class="absolute text-5xl font-bold opacity-5 rotate-6 leading-tight top-2 right-0">undefined</div> <div class="card-body p-4"><div class="flex flex-col md:flex-row items-start gap-4"><div class="mb-auto aspect-video w-full max-w-full shrink-0 md:max-w-xs"><img class="rounded-md " src="https://minnduc.github.io//assets/EcoWaste.png" alt="Waste management system with AI-powered waste classification."></div> <div class="card-title flex-1 flex-col items-start gap-4"><div><h2 class="p-name text-left text-2xl mb-2">EcoWaste</h2> <div class="mb-3 text-base font-normal"><span class="btn btn-sm btn-ghost normal-case border-dotted border-base-content/20 border-2 my-1 mr-1">Project </span><span class="btn btn-sm btn-ghost normal-case border-dotted border-base-content/20 border-2 my-1 mr-1">AI </span><span class="btn btn-sm btn-ghost normal-case border-dotted border-base-content/20 border-2 my-1 mr-1">Website </span></div></div> <p class="text-left text-base font-normal opacity-70"><!-- HTML_TAG_START -->Waste management system with AI-powered waste classification.<!-- HTML_TAG_END --></p></div></div></div></a><a id="mangaocr" href="https://minnduc.github.io//projects/mangaocr" class="card mx-auto max-w-4xl bg-base-100 shadow-xl transition-shadow mb-7 h-card u-url hover:shadow-2xl"><div class="absolute text-5xl font-bold opacity-5 rotate-6 leading-tight top-2 right-0">undefined</div> <div class="card-body p-4"><div class="flex flex-col md:flex-row items-start gap-4"><div class="mb-auto aspect-video w-full max-w-full shrink-0 md:max-w-xs"><img class="rounded-md " src="https://minnduc.github.io//assets/MangaOCR.png" alt="Deep learning-based Japanese character recognition in Manga."></div> <div class="card-title flex-1 flex-col items-start gap-4"><div><h2 class="p-name text-left text-2xl mb-2">Manga OCR</h2> <div class="mb-3 text-base font-normal"><span class="btn btn-sm btn-ghost normal-case border-dotted border-base-content/20 border-2 my-1 mr-1">Project </span><span class="btn btn-sm btn-ghost normal-case border-dotted border-base-content/20 border-2 my-1 mr-1">Coursework </span><span class="btn btn-sm btn-ghost normal-case border-dotted border-base-content/20 border-2 my-1 mr-1">OCR </span><span class="btn btn-sm btn-ghost normal-case border-dotted border-base-content/20 border-2 my-1 mr-1">Deep Learning </span></div></div> <p class="text-left text-base font-normal opacity-70"><!-- HTML_TAG_START -->Deep learning-based Japanese character recognition in Manga.<!-- HTML_TAG_END --></p></div></div></div></a><footer class="footer footer-center bg-base-300 text-base-content shadow-inner p-8 rounded-box  max-w-4xl mx-auto p-4 md:p-8" id="footer"><div class="prose"><p><a href="/atom.xml" rel="noopener noreferrer external" target="_blank">Feed</a> <span class="mr-1" data-svelte-h="svelte-lk4btp">·</span><a href="/sitemap.xml" rel="noopener noreferrer external" target="_blank">Sitemap</a>  <br>      Copyright © 2026 Minh Duc <br>      Powered by      <a class="tooltip tooltip-secondary hover:text-secondary" data-tip="🌸 [Polaris] - Based on MDsveX & SvelteKit 🌸" href="https://github.com/importantimport/urara" rel="noopener noreferrer external" target="_blank" data-svelte-h="svelte-vjman6">Urara</a> </p></div></footer>]]>
+    </content>
+  </entry>
+  <entry>
     <title type="html"><![CDATA[Resume]]></title>
     <link href="https://minnduc.github.io/resume" />
     <id>https://minnduc.github.io/resume</id>
-    <published>2026-07-02T11:23:59.287Z</published>
+    <published>2026-07-02T12:21:04.503Z</published>
     <updated>2026-07-02T00:00:00.000Z</updated>
     <content type="html">
       <![CDATA[<p data-svelte-h="svelte-12r7f95">You can see my CV <a href="https://drive.google.com/file/d/1t3KDAn6dXVzjnIzYiL4v0U0oWeQsA8dW/view?usp=sharing" rel="nofollow noopener noreferrer external" target="_blank">here</a>.</p>]]>
@@ -37,7 +47,7 @@
     <title type="html"><![CDATA[Hello World]]></title>
     <link href="https://minnduc.github.io/welcome" />
     <id>https://minnduc.github.io/welcome</id>
-    <published>2026-07-02T11:23:59.287Z</published>
+    <published>2026-07-02T12:21:04.503Z</published>
     <updated>2026-07-02T00:00:00.000Z</updated>
     <content type="html">
       <![CDATA[<h1 id="about-me" data-svelte-h="svelte-1nwhtfo"><a href="#about-me">About me!</a></h1> <p data-svelte-h="svelte-1f6pdhf">My name is Minh Duc.</p> <p data-svelte-h="svelte-anpe9i">You can pronounce it as “Min” and “Duc” - where “Duc” sounds like “Duck”. The name “Duc” carries profound meanings in Vietnamese culture, representing virtues like morality, talent, and leadership qualities, which I strive to embody in both my personal and professional life.</p> <p data-svelte-h="svelte-ms3j0y">I am currently a third-year Information Technology student at the University of Information Technology (UIT), VNU. As I progress through my academic journey, I’m building a strong foundation in computer science fundamentals while exploring cutting-edge technologies that shape our digital future. And, I aim to become an MLOps Engineer in the future.</p> <p data-svelte-h="svelte-z16r6z">Besides, I love learning Math, code, computer, games, League of Legends, manga, swimming, gym and orca.</p> <h2 id="about-this-blog" data-svelte-h="svelte-1592ket"><a href="#about-this-blog">About this blog</a></h2> <p data-svelte-h="svelte-1a1574o">This blog simply shares my life journey.</p>]]>
