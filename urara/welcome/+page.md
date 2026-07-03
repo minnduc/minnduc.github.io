@@ -11,7 +11,7 @@ tags:
 
 # About me!
 
-My name is Minh Duc. 
+My name is Minh-Duc. 
 
 You can pronounce it as "Min" and "Duc" - where "Duc" sounds like "Duck". The name "Duc" carries profound meanings in Vietnamese culture, representing virtues like morality, talent, and leadership qualities, which I strive to embody in both my personal and professional life.
 

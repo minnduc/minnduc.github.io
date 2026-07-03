@@ -3,8 +3,8 @@ import type { SiteConfig } from '$lib/types/site'
 export const site: SiteConfig = {
   author: {
     avatar: '/assets/avatar.minnduc.png',
-    bio: 'Email: minnduc.nguyen@gmail.com',
-    name: 'Minh Duc',
+    bio: 'Email: minnduc.nguyen@gmail.com <br> "Fortis Fortuna Adiuvat"',
+    name: 'Minh-Duc',
     status: '☁️',
   },
   description: 'Powered by SvelteKit/Urara',
