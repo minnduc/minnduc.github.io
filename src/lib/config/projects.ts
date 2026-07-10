@@ -29,4 +29,13 @@ export const projects: Project[] = [
         img: '/assets/MangaOCR.png',
         link: '/projects/mangaocr'
     },
+    {
+        id: 'IE229',
+        name: 'Artificial Intelligence',
+        description: 
+            'Enhancing Deep Learning Baselines.',
+        tags: ['Project', 'Coursework', 'Deep Learning'],
+        img: '/assets/ie229/ie229.png',
+        link: '/projects/ie229'
+    },
 ]
