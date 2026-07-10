@@ -13,11 +13,11 @@ tags:
 
 My name is Minh-Duc. 
 
-You can pronounce it as "Min" and "Duc" - where "Duc" sounds like "Duck". The name "Duc" carries profound meanings in Vietnamese culture, representing virtues like morality, talent, and leadership qualities, which I strive to embody in both my personal and professional life.
+But you can easily call me 'Min-Duck'. There is a beautiful meaning behind my name: In Vietnam, 'Duc' signifies virtue, talent, and leadership qualities. It’s a constant reminder for me to keep growing every day—not just to become a skilled professional, but also a person of integrity and a reliable teammate.
 
-I am currently a third-year Information Technology student at the University of Information Technology (UIT), VNU. As I progress through my academic journey, I'm building a strong foundation in computer science fundamentals while exploring cutting-edge technologies that shape our digital future. And, I aim to become an MLOps Engineer in the future.
+I am currently a final-year Information Technology student at the University of Information Technology (UIT), VNU. And honestly, I'm grateful for all those late-night coding sessions and group projects that almost broke our friendship (kidding!). But you know what actually stuck with me? The realization that great models are useless if no one can use them. That's exactly why I'm chasing the MLOps path – to be the bridge between brilliant Machine Learning models and real-world products that just work.
 
-Besides, I love learning Math, code, computer, games, League of Legends, manga, swimming, gym and orca.
+Besides, I love learning Math, code, computer, games, League of Legends, manga, swimming, gym, cooking, and orca.
 
 ## About this blog
 
